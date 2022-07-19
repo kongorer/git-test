@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#links ,
+.kaka
+{
+    color: white;
+    background-color: red;
+    font-weight: 1000 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#li:link {
+    color: white;
+    text-decoration: none;
+    
+  }
+  
+  /* visited link */
+#li:visited {
+    color: white;
+    background-color:red;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+#li:hover {
+    color: hotpink;
+    background-color: white;
+    font-weight: bolder;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+#li:active {
+    color: blue;
+  }
